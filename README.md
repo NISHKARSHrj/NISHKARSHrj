@@ -21,7 +21,9 @@ Hi, I'm NISHKARSH<br><br>i am a passionate developer currently building my found
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NISHKARSHrj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=NISHKARSHrj&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
