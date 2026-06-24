@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm NISHKARSH<br><br>i am a passionate developer currently building my foundation in<br>web technologies, APP and Linux system<br><br>🌱 What I’m doing right now:<br>💻 Learning the ins and outs of Python, react Native and javascript.<br><br>🐧 Using Fedora as my main linux environment.<br><br>
+Hi, I'm NISHKARSH<br><br>i am a passionate developer currently building my foundation in<br>web technologies, APP and Linux system<br><br>🌱 What I’m doing right now:<br>💻 Learning the ins and outs of Python, Flutter and javascript.<br><br>🐧 Using Fedora as my main linux environment.<br><br>
 
 
 ## 🌐 Socials:
