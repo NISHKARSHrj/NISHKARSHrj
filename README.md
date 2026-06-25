@@ -17,13 +17,6 @@ Hi, I'm NISHKARSH<br><br>i am a passionate developer currently building my found
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NISHKARSHrj&theme=dark&layout=compact&hide_border=false" alt="NISHKARSHrj Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NISHKARSHrj&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
-</p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
